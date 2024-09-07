@@ -1,1 +1,22 @@
-
+{
+    "altyapilar": [
+        {
+            "isim": "Discord Sorgu Botu - Exclusive",
+            "aciklama": "Discord Sorgu Botu altyapımın daha donanımlı ve kaliteli hali olan Exclusive versiyonu.",
+            "gorsel": "srgexclusive.png",
+            "gorseller": ["", "", ""],
+            "fiyat": 150.00,
+            "altyapiId": "fc9ada63bfb9aab147d6d5a9d61e0233",
+            "stok": "∞"
+        },
+        {
+            "isim": "Discord Ticket Botu",
+            "aciklama": "Kendi Discord sunucum'da kullandığım hiçbir yerde olmayan Ticket botu altyapısı.",
+            "gorsel": "ticketbot.png",
+            "gorseller": ["", "", ""],
+            "fiyat": 100.00,
+            "altyapiId": "7fd61cb0253f18593b9560056a653119",
+            "stok": "∞"
+        }
+    ]
+}
