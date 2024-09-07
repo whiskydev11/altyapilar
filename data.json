@@ -11,7 +11,7 @@
         },
         {
             "isim": "Discord Ticket Botu",
-            "aciklama": "Kendi Discord sunucum'da kullandığım hiçbir yerde olmayan Ticket botu altyapısı.",
+            "aciklama": "Kendi Discord sunucum'da kullandığım eşi benzeri olmayan Ticket botu altyapısı.",
             "gorsel": "https://media.discordapp.net/attachments/1282089396421791844/1282100779037098005/ticketbotu.png?ex=66de20e6&is=66dccf66&hm=57f1046e0f36fd469e49557f9406515594fada70960be43144ce253674f0502d&=&format=webp&quality=lossless",
             "gorseller": ["", "", ""],
             "fiyat": 100.00,
@@ -20,7 +20,7 @@
         },
         {
             "isim": "Discord Abone-Rol Botu",
-            "aciklama": "Kendi Discord sunucum'da kullandığım hiçbir yerde olmayan Abone-Rol botu altyapısı.",
+            "aciklama": "Kendi Discord sunucum'da kullandığım eşi benzeri olmayan Abone-Rol botu altyapısı.",
             "gorsel": "https://media.discordapp.net/attachments/1282089396421791844/1282100819990282320/abonerolbotu.png?ex=66de20ef&is=66dccf6f&hm=4a1984162a2232f9805a5201c2069f0a78c8b23993620dddb6723e5965c9c7de&=&format=webp&quality=lossless",
             "gorseller": ["", "", ""],
             "fiyat": 100.00,
