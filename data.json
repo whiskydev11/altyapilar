@@ -2,7 +2,7 @@
     "altyapilar": [
         {
             "isim": "Discord Sorgu Botu - Exclusive",
-            "aciklama": "Discord Sorgu Botu altyapımın daha donanımlı ve kaliteli hali olan Exclusive versiyonu.",
+            "aciklama": "Discord Sorgu Botu altyapımın daha donanımlı ve kaliteli hali olan Exclusive versiyonu. \n\n⚙️ Özellikler \n✅ Botun yetkili özelliklerini kullanabilecek yetkili rol sistemi. \n✅ Süreli otomatik üyelik sistemi. Rol ile çalışma sistemi yerine üyelik sistemi eklendi. Yetkili rolüne sahip kişiler üyelik verip, üyeliği alabilir. \n✅ Atılan her sorgu kişiye +1 olarak yazılır. Toplu olarak yetkili rolüne sahip kişiler tarafından görüntülenebilir. \n✅ Atılan her sorgu sisteme +1 olarak yazılır. Toplu olarak yetkili rolüne sahip kişiler tarafından görüntülenebilir. \n✅ Veri yasaklama sistemi. GSM, TC, AD-SOYAD, bu verileri sistemde yasaklayarak sorgulanmasını engelleyebilirsiniz. \n✅ Sorgu çözümünü kullanıma kapatıp açma sistemi. İstediğiniz sorgu çözümünü tek komutla kullanıma açıp kapatabilirsiniz. \n✅ Bot bakım modu sistemi. Botu genel olarak kullanıma açıp kapatmak için tek komutla bakım modunu açabilirsiniz. \n✅ Ekstradan sorgular => Burç, Yaş-Pro, Kızlık Soyadı, Sülale, GSM Operatör.",
             "gorsel": "https://i.ibb.co/By63kfn/sorgubot-1.png",
             "gorseller": ["https://i.ibb.co/ChcCQBQ/sorgu-Ozellik1.png", "https://i.ibb.co/NF8yn83/sorgu-Ozellik2.png", "https://i.ibb.co/pXK6m3K/sorgu-Ozellik3.png"],
             "fiyat": 150.00,
