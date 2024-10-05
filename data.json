@@ -7,7 +7,8 @@
             "gorseller": ["https://i.ibb.co/ChcCQBQ/sorgu-Ozellik1.png", "https://i.ibb.co/NF8yn83/sorgu-Ozellik2.png", "https://i.ibb.co/pXK6m3K/sorgu-Ozellik3.png"],
             "fiyat": 150.00,
             "altyapiId": "fc9ada63bfb9aab147d6d5a9d61e0233",
-            "stok": "∞"
+            "stok": "∞",
+            "split": true
         },
         {
             "isim": "Discord Ticket Botu",
@@ -16,7 +17,8 @@
             "gorseller": ["https://i.ibb.co/dkpm7zS/ticketbotu.png", "https://i.ibb.co/dkpm7zS/ticketbotu.png", "https://i.ibb.co/dkpm7zS/ticketbotu.png"],
             "fiyat": 100.00,
             "altyapiId": "7fd61cb0253f18593b9560056a653119",
-            "stok": "∞"
+            "stok": "∞",
+            "split": false
         },
         {
             "isim": "Discord Abone-Rol Botu",
@@ -25,7 +27,8 @@
             "gorseller": ["https://i.ibb.co/Hz6zXSc/abonerolbotu.png", "https://i.ibb.co/Hz6zXSc/abonerolbotu.png", "https://i.ibb.co/Hz6zXSc/abonerolbotu.png"],
             "fiyat": 100.00,
             "altyapiId": "d003d2f85a495aa42987ed786d23991c",
-            "stok": "∞"
+            "stok": "∞",
+            "split": false
         }
     ]
 }
