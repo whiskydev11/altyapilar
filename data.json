@@ -3,8 +3,8 @@
         {
             "isim": "Discord Sorgu Botu - Exclusive",
             "aciklama": "Discord Sorgu Botu altyapımın daha donanımlı ve kaliteli hali olan Exclusive versiyonu.",
-            "gorsel": "https://media.discordapp.net/attachments/1282089396421791844/1282100321266438224/sorgubot_1.png?ex=66de2078&is=66dccef8&hm=be35d2c7c175ad87a8884b199ebdb9d11ea04e4406761f51a1b3be780c0ced23&=&format=webp&quality=lossless",
-            "gorseller": ["https://media.discordapp.net/attachments/1282089396421791844/1282314184096350321/image.png?ex=66dee7a5&is=66dd9625&hm=40ec80ae043cff65d93d8461fde499ad2db1c385e03ce783fbcb6b4809424bbc&=&format=webp&quality=lossless", "https://media.discordapp.net/attachments/1282089396421791844/1282314246406934579/image.png?ex=66dee7b4&is=66dd9634&hm=79600e5497ec685fd9fdfff796101dd0a7826dc07041fd481d2611b798808f0f&=&format=webp&quality=lossless", "https://media.discordapp.net/attachments/1282089396421791844/1282315115198287882/sorgu3.png?ex=66dee883&is=66dd9703&hm=f6d1887a7fc1163e77a0e9083c78e749ee6a5d3e091888b9c6309e34c1a7dce2&=&format=webp&quality=lossless"],
+            "gorsel": "https://i.ibb.co/By63kfn/sorgubot-1.png",
+            "gorseller": ["https://i.ibb.co/ChcCQBQ/sorgu-Ozellik1.png", "https://i.ibb.co/NF8yn83/sorgu-Ozellik2.png", "https://i.ibb.co/pXK6m3K/sorgu-Ozellik3.png"],
             "fiyat": 150.00,
             "altyapiId": "fc9ada63bfb9aab147d6d5a9d61e0233",
             "stok": "∞"
@@ -12,8 +12,8 @@
         {
             "isim": "Discord Ticket Botu",
             "aciklama": "Kendi Discord sunucum'da kullandığım eşi benzeri olmayan en kaliteli Ticket botu altyapısı.",
-            "gorsel": "https://media.discordapp.net/attachments/1282089396421791844/1282100779037098005/ticketbotu.png?ex=66de20e6&is=66dccf66&hm=57f1046e0f36fd469e49557f9406515594fada70960be43144ce253674f0502d&=&format=webp&quality=lossless",
-            "gorseller": ["https://media.discordapp.net/attachments/1282089396421791844/1282100779037098005/ticketbotu.png?ex=66de20e6&is=66dccf66&hm=57f1046e0f36fd469e49557f9406515594fada70960be43144ce253674f0502d&=&format=webp&quality=lossless", "https://media.discordapp.net/attachments/1282089396421791844/1282100779037098005/ticketbotu.png?ex=66de20e6&is=66dccf66&hm=57f1046e0f36fd469e49557f9406515594fada70960be43144ce253674f0502d&=&format=webp&quality=lossless", "https://media.discordapp.net/attachments/1282089396421791844/1282100779037098005/ticketbotu.png?ex=66de20e6&is=66dccf66&hm=57f1046e0f36fd469e49557f9406515594fada70960be43144ce253674f0502d&=&format=webp&quality=lossless"],
+            "gorsel": "https://i.ibb.co/dkpm7zS/ticketbotu.png",
+            "gorseller": ["https://i.ibb.co/dkpm7zS/ticketbotu.png", "https://i.ibb.co/dkpm7zS/ticketbotu.png", "https://i.ibb.co/dkpm7zS/ticketbotu.png"],
             "fiyat": 100.00,
             "altyapiId": "7fd61cb0253f18593b9560056a653119",
             "stok": "∞"
@@ -21,8 +21,8 @@
         {
             "isim": "Discord Abone-Rol Botu",
             "aciklama": "Kendi Discord sunucum'da kullandığım eşi benzeri olmayan en kaliteli Abone-Rol botu altyapısı.",
-            "gorsel": "https://media.discordapp.net/attachments/1282089396421791844/1282100819990282320/abonerolbotu.png?ex=66de20ef&is=66dccf6f&hm=4a1984162a2232f9805a5201c2069f0a78c8b23993620dddb6723e5965c9c7de&=&format=webp&quality=lossless",
-            "gorseller": ["https://media.discordapp.net/attachments/1282089396421791844/1282100819990282320/abonerolbotu.png?ex=66de20ef&is=66dccf6f&hm=4a1984162a2232f9805a5201c2069f0a78c8b23993620dddb6723e5965c9c7de&=&format=webp&quality=lossless", "https://media.discordapp.net/attachments/1282089396421791844/1282100819990282320/abonerolbotu.png?ex=66de20ef&is=66dccf6f&hm=4a1984162a2232f9805a5201c2069f0a78c8b23993620dddb6723e5965c9c7de&=&format=webp&quality=lossless", "https://media.discordapp.net/attachments/1282089396421791844/1282100819990282320/abonerolbotu.png?ex=66de20ef&is=66dccf6f&hm=4a1984162a2232f9805a5201c2069f0a78c8b23993620dddb6723e5965c9c7de&=&format=webp&quality=lossless"],
+            "gorsel": "https://i.ibb.co/Hz6zXSc/abonerolbotu.png",
+            "gorseller": ["https://i.ibb.co/Hz6zXSc/abonerolbotu.png", "https://i.ibb.co/Hz6zXSc/abonerolbotu.png", "https://i.ibb.co/Hz6zXSc/abonerolbotu.png"],
             "fiyat": 100.00,
             "altyapiId": "d003d2f85a495aa42987ed786d23991c",
             "stok": "∞"
